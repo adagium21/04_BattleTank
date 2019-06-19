@@ -1,0 +1,7 @@
+{
+	"files.exclude": {
+		"H:/SourceTree Repo/04-BattleTank/BattleTank/.vscode": true,
+		"H:/SourceTree Repo/04-BattleTank/BattleTank/Content": true,
+		"H:/SourceTree Repo/04-BattleTank/BattleTank/Intermediate": true
+	}
+}
